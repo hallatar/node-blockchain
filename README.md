@@ -1,4 +1,4 @@
-# Bitcoin-like Blockchain in Node.js
+# Blockchain in Node.js
 
 A fully functional cryptocurrency blockchain implementation in Node.js, featuring:
 
